@@ -2,6 +2,7 @@
  The project aims to build a multithreaded Web server and a simple web client. The Webserver   and   Web   client   communicate   using   a   text-based   protocol   called   HTTP.
  
  Local Host: http://localhost:7777/
+ 
 RESPONSE_200:
 - index.html is the default webpage
 RESPONSE_301:
